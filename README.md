@@ -96,8 +96,8 @@ What drives me:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budiprihhastomo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiprihhastomo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/?username=budiprihhastomo&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Budi+Prih+Hastomo%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=budiprihhastomo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ What drives me:
 
 <p align="center">
   <a href="https://budihastomo.my.id"><img src="https://img.shields.io/badge/Website-budihastomo.my.id-FFA500?style=for-the-badge&logo=astro&logoColor=white"/></a>
-  <a href="https://twitter.com/budiph"><img src="https://img.shields.io/badge/Twitter-@budiph-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://twitter.com/budiphastomo"><img src="https://img.shields.io/badge/Twitter-@budiphastomo-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://github.com/budiprihhastomo"><img src="https://img.shields.io/badge/GitHub-budiprihhastomo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:budiprihhastomo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
