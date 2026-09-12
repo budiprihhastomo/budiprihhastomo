@@ -15,10 +15,11 @@ Indonesian software engineer with **7+ years of experience** building resilient 
 
 What drives me:
 
-- 🔧 **Engineer** who rewrote a core API from PHP to Golang and kept 99.9% uptime on AWS
-- 🛡️ **DevSecOps** who lives in CI/CD pipelines, API gateways, and threat models
-- 🐛 **Security-minded** engineer who weaves DevSecOps into every pipeline
-- ⚡ **Perf nerd** who loves debugging complex performance bottlenecks
+- :brain: **Engineer** builds and maintains backend services, APIs, and web applications.
+- :globe_with_meridians: **DevSecOps** builds and integrates CI/CD pipelines, secured API Gateway, and infrastructure with securely
+- :cloud: **Cloud & Infrastructure** works with AWS, GCP, Kubernetes, Terraform, and observability stacks
+- :shield: **Security-minded** engineer who weaves DevSecOps into every pipeline
+- :airplane: **Perf nerd** who loves debugging complex performance bottlenecks
 
 > "Architecture is the art of choosing what to break, and what to keep."
 
